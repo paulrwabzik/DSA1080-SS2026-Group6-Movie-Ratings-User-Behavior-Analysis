@@ -7,14 +7,14 @@
 # Participants 
 
 1.Rwabajungu Paul-676390
+2.Pearl Osong - 676306
 ---
-
 # Tools used
 Language: Python 3.10
 Libraries: Pandas (Data Wrangling), NumPy (Mathematical Transformations), Scikit-Learn (Machine Learning), Matplotlib (Visualization).
 Version Control: Git/GitHub.
 Environment: Jupyter Notebook.
-
+---
 # The Regrssion Analysis
 The regressiona analysis was entirely crucial for understanding user behavior; for this reason Artificial Intelligence was used to perfrom a Random Forest Regressor analysis. Artificial Intelligence was also used to perfrom the **Hot encoding** used to separate the genres from a dictionary into separate binary columns.
 
@@ -25,11 +25,11 @@ The Random Forest Regressor was chosen instead because it effectively captures c
 
 # Findings
 The regression found that the top factors that contribute most towards ratings are;
--**user_mean_rating**:Showing that the best way to tell how someone will rate a movie is to see how they have rated in the past
--**popularity**:That users are influenced to like something based on how popular it is at the time
--**revenue_log**:The more revenue a movie makes the more like watched it is, positively impacting its ratings
--**budget_log**:The more money is pured into a movie, the better the quality, the better the rartings
-runtime-Movies that are too long or too short often times get lower rating becuase of human intest and attention span affecting its rating
--**vote_count**: This is the number of global votes  a certain movie has using the TMDB  database showing that higher global ratings  mean a better rating
+-**user_mean_rating**:Showing that the best way to tell how someone will rate a movie is to see how they have rated in the past.
+-**popularity**:That users are influenced to like something based on how popular it is at the time.
+-**revenue_log**:The more revenue a movie makes the more like watched it is, positively impacting its ratings.
+-**budget_log**:The more money is pured into a movie, the better the quality, the better the rartings.
+-**runtime**-Movies that are too long or too short often times get lower rating becuase of human intest and attention span affecting its rating.
+-**vote_count**: This is the number of global votes  a certain movie has using the TMDB  database showing that higher global ratings  mean a better rating.
 -**vote_average**:A higher vote average means a the more liked the movie is globally the better ratings its going to receive.
 
