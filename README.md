@@ -38,7 +38,7 @@
 - Libraries: Pandas (Data Wrangling), NumPy (Mathematical Transformations), Scikit-Learn (Machine Learning), Matplotlib (Visualization).
 - Version Control: Git/GitHub.
 - Environment: Jupyter Notebook.
-- Main visuals were done using lookerstudio.google.com
+- Main visuals were done using lookerstudio.google.com and PowerBI
 ---
 # The Regression Analysis
 - The regressiona analysis was entirely crucial for understanding user behavior; for this reason Artificial Intelligence was used to perfrom a Random Forest Regressor analysis. Artificial Intelligence was also used to perfrom the **Hot encoding** used to separate the genres from a dictionary into separate binary columns.
