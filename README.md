@@ -12,10 +12,10 @@
 * 4.Trevor Ndungi-675561
 ---
 # Tools used
-Language: Python 3.10
-Libraries: Pandas (Data Wrangling), NumPy (Mathematical Transformations), Scikit-Learn (Machine Learning), Matplotlib (Visualization).
-Version Control: Git/GitHub.
-Environment: Jupyter Notebook.
+* Language: Python 3.10
+* Libraries: Pandas (Data Wrangling), NumPy (Mathematical Transformations), Scikit-Learn (Machine Learning), Matplotlib (Visualization).
+* Version Control: Git/GitHub.
+* Environment: Jupyter Notebook.
 ---
 # The Regrssion Analysis
 The regressiona analysis was entirely crucial for understanding user behavior; for this reason Artificial Intelligence was used to perfrom a Random Forest Regressor analysis. Artificial Intelligence was also used to perfrom the **Hot encoding** used to separate the genres from a dictionary into separate binary columns.
