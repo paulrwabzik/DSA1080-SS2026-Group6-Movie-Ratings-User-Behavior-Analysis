@@ -2,7 +2,7 @@
 
 # Dataset source link:[(https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)]
 
-# Number of rows: 45467 rows
+-Number of rows: 45467 rows
 
 # Participants 
 
