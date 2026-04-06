@@ -5,19 +5,24 @@
 -Number of rows: 45467 rows
 
 ## Data Dictionary
-- userId
-- movieId
-- rating
-- timestamp
-- adult
-- budget
-- genres
-- popularity
-- revenue
-- runtime
-- vote_average
-- vote_count
-- original language
+- userId- The unique identifier for every user who rated a movie.
+- movieId- The identifier for every movie rarted.
+- rating- Score given to a movie by a user on the scale of 0-5 with increments of 0.5.
+- timestamp- the time the rating was made.
+- adult- Whether the movie in question is the movie is meant specificaly for adult audiences.
+- budget- The production expense of the movie in United States dollars($).
+- genres-The category of film the movie falls into.
+- popularity- A trend metric from TMBD(global movie database) indicating how much excitememt a movie has to the larger public.
+- revenue- The capital made from the movie in United States dollars($).
+- runtime-How long the movie is in minutes.
+- vote_average-The average of the TMBD votes.
+- vote_count-The totla number of user rating submitted globally for that movie.
+- original language- The language the movie was originally produced in.
+- bugdet_log- The production budget transormed using a log scale to handle extreme outliers.
+- revenue_log-The capital grossed adjusted using a log scale to handle extremem outliers.
+- user_mean_rating- This is the average rating given by a specific user across all movies watched. 
+- user_rating_count- The sum of movies rated by a specific user
+- 
 
 
 
@@ -28,6 +33,7 @@
 - 3.Staicy Kimberly-677494
 - 4.Trevor Ndungi-675561
 - 5.Joy Migwi - 676291
+- Peris Kasyoki-677135
 ---
 ## Tools used
 - Language: Python 3.10
@@ -35,7 +41,7 @@
 - Version Control: Git/GitHub.
 - Environment: Jupyter Notebook.
 ---
-## The Regression Analysis
+# The Regression Analysis
 - The regressiona analysis was entirely crucial for understanding user behavior; for this reason Artificial Intelligence was used to perfrom a Random Forest Regressor analysis. Artificial Intelligence was also used to perfrom the **Hot encoding** used to separate the genres from a dictionary into separate binary - columns.
 - Our group opted out of a simple linear regression because it was unsuitable for this dataset due to the non-linear nature of features like budget and popularity. 
 - The dataset also contains repeated measures (multiple ratings per user).
