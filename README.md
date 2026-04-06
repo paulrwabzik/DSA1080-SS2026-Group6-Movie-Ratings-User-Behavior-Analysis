@@ -50,7 +50,7 @@
 - Popularity vs. Cultural Longevity: There is a difference between "Hype" and "Legacy." While Pulp Fiction has a high popularity score, The Dark Knight leads in total votes. This indicates that superhero and action genres maintain active fan base years after release.
 - The Operational "Sweet Spot": The average runtime of 109 minutes (1hour 49minutes) highlights an industry standard. This duration is the optimal balance between audience retention and maximizing the number of daily theatre screenings.
 
-##The Regression
+## The Regression
 The regression found that the top factors that contribute most towards ratings are;
 - **user_mean_rating**:Showing that the best way to tell how someone will rate a movie is to see how they have rated in the past.
 - **popularity**:That users are influenced to like something based on how popular it is at the time.
