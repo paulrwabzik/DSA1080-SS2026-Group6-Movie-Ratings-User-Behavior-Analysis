@@ -1,8 +1,12 @@
 # DSA1080-SS2026-Group6-Movie-Ratings-User-Behavior-Analysis
 
-# Dataset source link:[(https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)]
+## Dataset source link:[(https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)]
 
 -Number of rows: 45467 rows
+
+## Data Dictionary
+
+
 
 # Participants 
 
