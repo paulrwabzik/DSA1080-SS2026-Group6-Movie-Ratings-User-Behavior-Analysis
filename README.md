@@ -6,24 +6,22 @@
 
 # Participants 
 
-- ** 1.Rwabajungu Paul-676390
-- ** 2.Pearl Osong - 676306
-- ** 3.Staicy Kimberly-677494
-- ** 4.Trevor Ndungi-675561
+- 1.Rwabajungu Paul-676390
+- 2.Pearl Osong - 676306
+- 3.Staicy Kimberly-677494
+- 4.Trevor Ndungi-675561
 ---
 # Tools used
-- ** Language: Python 3.10
-- ** Libraries: Pandas (Data Wrangling), NumPy (Mathematical Transformations), Scikit-Learn (Machine Learning), Matplotlib (Visualization).
-- ** Version Control: Git/GitHub.
-- ** Environment: Jupyter Notebook.
+- Language: Python 3.10
+- Libraries: Pandas (Data Wrangling), NumPy (Mathematical Transformations), Scikit-Learn (Machine Learning), Matplotlib (Visualization).
+- Version Control: Git/GitHub.
+- Environment: Jupyter Notebook.
 ---
 # The Regression Analysis
-**The regressiona analysis was entirely crucial for understanding user behavior; for this reason Artificial Intelligence was used to perfrom a Random Forest Regressor analysis. Artificial Intelligence was also used to perfrom the **Hot encoding** used to separate the genres from a dictionary into separate binary columns.
-
-**Our group opted out of a simple linear regression because it was unsuitable for this dataset due to the non-linear nature of features like budget and popularity. 
-The dataset also contains repeated measures (multiple ratings per user).
-
-**The Random Forest Regressor was chosen instead because it effectively captures complex relationaships  between features and handles categorical genre data without requiring strict linearity.
+- The regressiona analysis was entirely crucial for understanding user behavior; for this reason Artificial Intelligence was used to perfrom a Random Forest Regressor analysis. Artificial Intelligence was also used to perfrom the **Hot encoding** used to separate the genres from a dictionary into separate binary - columns.
+- Our group opted out of a simple linear regression because it was unsuitable for this dataset due to the non-linear nature of features like budget and popularity. 
+- The dataset also contains repeated measures (multiple ratings per user).
+- The Random Forest Regressor was chosen instead because it effectively captures complex relationaships  between features and handles categorical genre data without requiring strict linearity.
 
 # Findings
 The regression found that the top factors that contribute most towards ratings are;
