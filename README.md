@@ -9,6 +9,7 @@
 * 1.Rwabajungu Paul-676390
 * 2.Pearl Osong - 676306
 * 3.Staicy Kimberly-677494
+* 4.Trevor Ndungi-675561
 ---
 # Tools used
 Language: Python 3.10
