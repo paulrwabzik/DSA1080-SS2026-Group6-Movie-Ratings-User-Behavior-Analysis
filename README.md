@@ -22,7 +22,7 @@
 - revenue_log-The capital grossed adjusted using a log scale to handle extremem outliers.
 - user_mean_rating- This is the average rating given by a specific user across all movies watched. 
 - user_rating_count- The sum of movies rated by a specific user
-- 
+- release_date- The date the movie was released to the public
 
 
 
