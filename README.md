@@ -46,9 +46,9 @@
 - The Random Forest Regressor was chosen instead because it effectively captures complex relationaships  between features and handles categorical genre data without requiring strict linearity.
 ---
 # Key Findings
-•	The "Blockbuster" Financial Model: Global net income is heavily "top-heavy." A small percentage of high-budget franchises (e.g., Lord of the Rings, Harry Potter) accounts for the majority of the $2.52 Trillion profit. This proves that existing Intellectual Property (IP) is the strongest predictor of financial returns.
-•	Popularity vs. Cultural Longevity: There is a difference between "Hype" and "Legacy." While Pulp Fiction has a high popularity score, The Dark Knight leads in total votes. This indicates that superhero and action genres maintain active fan base years after release.
-•	The Operational "Sweet Spot": The average runtime of 109 minutes (1hour 49minutes) highlights an industry standard. This duration is the optimal balance between audience retention and maximizing the number of daily theatre screenings.
+-The "Blockbuster" Financial Model: Global net income is heavily "top-heavy." A small percentage of high-budget franchises (e.g., Lord of the Rings, Harry Potter) accounts for the majority of the $2.52 Trillion profit. This proves that existing Intellectual Property (IP) is the strongest predictor of financial returns.
+-Popularity vs. Cultural Longevity: There is a difference between "Hype" and "Legacy." While Pulp Fiction has a high popularity score, The Dark Knight leads in total votes. This indicates that superhero and action genres maintain active fan base years after release.
+-The Operational "Sweet Spot": The average runtime of 109 minutes (1hour 49minutes) highlights an industry standard. This duration is the optimal balance between audience retention and maximizing the number of daily theatre screenings.
 
 ##The Regression
 The regression found that the top factors that contribute most towards ratings are;
