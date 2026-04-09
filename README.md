@@ -40,7 +40,7 @@
 - Environment: Jupyter Notebook.
 - Main visuals were done using lookerstudio.google.com and PowerBI
 ---
-# The Regression Analysis
+# Disclaimer:The Regression Analysis
 - The regressiona analysis was entirely crucial for understanding user behavior; for this reason Artificial Intelligence was used to perfrom a Random Forest Regressor analysis. Artificial Intelligence was also used to perfrom the **Hot encoding** used to separate the genres from a dictionary into separate binary columns.
 - Our group opted out of a simple linear regression because it was unsuitable for this dataset due to the non-linear nature of features like budget and popularity. 
 - The dataset also contains repeated measures (multiple ratings per user).
